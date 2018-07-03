@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvcjsp">
+    <output-path>$PROJECT_DIR$/out/artifacts/mvcjsp</output-path>
+    <root id="archive" name="mvcjsp.war" />
+  </artifact>
+</component>
